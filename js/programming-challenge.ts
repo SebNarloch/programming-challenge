@@ -1,3 +1,7 @@
+/**
+ * ! I used npx ts-node programming-challenge.ts to run the challenge with TS
+ */
+
 const phrases = {
   Hello: "Ellohay",
   "Pig Latin": "Igpay Atinlay",
