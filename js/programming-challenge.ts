@@ -28,6 +28,7 @@ const vowels = ["a", "e", "i", "o", "u"];
 /**
  * Takes a phrase and converts the English phrase to
  * a Pig Latin phrase.
+ * @param englishPhrase the input English phrase
  */
 function translateEnglishToPigLatin(englishPhrase: string) {
   // split the string into an array of words
